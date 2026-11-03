@@ -1,0 +1,32 @@
+{
+  "name": "금오공대 강의실/시간표",
+  "short_name": "금오공대",
+  "description": "금오공과대학교 내 시간표, 강의실 사용 현황, 학식, 교내공지를 한 곳에서",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#00A9CE",
+  "theme_color": "#00A9CE",
+  "orientation": "any",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
